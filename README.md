@@ -67,7 +67,7 @@ The game uses the following components:
 To play the game, simply run the script:
 
 ```bash
-python connect4.py
+python main.py
 ```
 
 Enjoy playing against the AI, and see if you can outsmart it!
